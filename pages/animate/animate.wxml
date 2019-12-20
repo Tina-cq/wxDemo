@@ -1,0 +1,3 @@
+<view class="animate-number">
+    <view class="num num1">{{num1}}</view>
+</view>

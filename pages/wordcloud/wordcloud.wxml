@@ -1,0 +1,4 @@
+<!--pages/wordcloud/wordcloud.wxml-->
+<view>
+  <text wx:for="{{arrs}}" style="font-size:{{item.fontSize}}px;padding-left:{{item.padding}}px;opacity:{{item.opacity}}">{{item.name}}</text>
+</view>

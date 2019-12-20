@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/animate/animate",
+    "pages/wordcloud/wordcloud"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#787878",
+    "navigationBarTitleText": "star",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#333",
+    "selectedColor": "#c90f30",
+    "backgroundColor": "#fff",
+    "position": "bottom",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/half.png",
+        "selectedIconPath": "images/normal.png"
+      },
+      {
+        "pagePath": "pages/animate/animate",
+        "text": "数字",
+        "iconPath": "images/half.png",
+        "selectedIconPath": "images/normal.png"
+      },
+      {
+        "pagePath": "pages/wordcloud/wordcloud",
+        "text": "词云",
+        "iconPath": "images/half.png",
+        "selectedIconPath": "images/normal.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

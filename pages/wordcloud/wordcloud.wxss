@@ -1,0 +1,9 @@
+/* pages/wordcloud/wordcloud.wxss */
+text{
+  float: left;
+  padding: 10rpx;
+  color: red;
+}
+view{
+  padding: 3vw;
+}
